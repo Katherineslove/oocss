@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+} 
+
+.pageContainer {
+    width: 700px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+/*This is the button css*/
+.btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.btn-blue {
+    background-color: blue;
+    border: 2px dotted white;
+}
+
+.btn-red {
+    background-color: red;
+    border: 2px dotted white;
+}
+
+.btn-large {
+    font-size: 30px;
+}
+
+/*This is how the links should be set up for ease*/
+.list
+
+.list-right {
+    float: right;
+}
+
+.list-left {
+    float: left;
+}
+
+.list-item {}
+
+.item-anchor {}
